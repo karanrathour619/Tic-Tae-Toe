@@ -1,1 +1,1 @@
-# Tic-Tae-Toe
+# Designed and implemented an interactive Tic-Tac-Toe game using cutting-edge front-end technologies. This engaging web application allows two users to compete against each other in the classic game of Tic-Tac-Toe.
